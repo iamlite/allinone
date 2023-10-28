@@ -65,3 +65,4 @@ bin
 elements
 .gradle
 mcreator.gradle
+.DS_Store
