@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "aio:block/marble",
+    "particle": "aio:block/marble"
+  },
+  "render_type": "solid"
+}

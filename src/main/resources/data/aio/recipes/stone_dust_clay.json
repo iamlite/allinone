@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "aio:stone_dust"
+    },
+    {
+      "item": "aio:stone_dust"
+    },
+    {
+      "item": "aio:stone_dust"
+    },
+    {
+      "item": "aio:stone_dust"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "aio:stone_dust"
+    },
+    {
+      "item": "aio:stone_dust"
+    },
+    {
+      "item": "aio:stone_dust"
+    },
+    {
+      "item": "aio:stone_dust"
+    }
+  ],
+  "result": {
+    "item": "minecraft:clay",
+    "count": 1
+  }
+}

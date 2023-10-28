@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "1": {
+      "tag": "c:coal_dusts"
+    },
+    "2": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "3": {
+      "item": "minecraft:blaze_powder"
+    },
+    "4": {
+      "item": "minecraft:slime_ball"
+    },
+    "5": {
+      "item": "minecraft:blaze_powder"
+    },
+    "6": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "7": {
+      "tag": "c:coal_dusts"
+    },
+    "8": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "item": "aio:glow_ball",
+    "count": 16
+  }
+}

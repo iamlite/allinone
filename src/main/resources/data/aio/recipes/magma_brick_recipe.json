@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "aio:stone_dust"
+    },
+    {
+      "item": "minecraft:lava_bucket"
+    },
+    {
+      "item": "aio:brick_mould"
+    },
+    {
+      "tag": "c:forge_hammers"
+    }
+  ],
+  "result": {
+    "item": "aio:magma_brick",
+    "count": 1
+  }
+}

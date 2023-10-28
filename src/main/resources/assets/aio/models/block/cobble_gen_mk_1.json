@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "aio:block/machine_bottom",
+    "up": "aio:block/machine_top",
+    "north": "aio:block/t1cobblestonegenerator",
+    "east": "aio:block/machine_side",
+    "south": "aio:block/machine_side",
+    "west": "aio:block/machine_side",
+    "particle": "aio:block/machine_bottom"
+  },
+  "render_type": "solid"
+}

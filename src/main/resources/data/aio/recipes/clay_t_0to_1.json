@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:clay"
+    },
+    "1": {
+      "item": "minecraft:clay"
+    },
+    "2": {
+      "item": "minecraft:clay"
+    },
+    "3": {
+      "item": "minecraft:clay"
+    },
+    "4": {
+      "item": "minecraft:clay"
+    },
+    "5": {
+      "item": "minecraft:clay"
+    },
+    "6": {
+      "item": "minecraft:clay"
+    },
+    "7": {
+      "item": "minecraft:clay"
+    },
+    "8": {
+      "item": "minecraft:clay"
+    }
+  },
+  "result": {
+    "item": "aio:clay_t_1",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "aio:block/marble_bricks"
+    }
+  }
+}

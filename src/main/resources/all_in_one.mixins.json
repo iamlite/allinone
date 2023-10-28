@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.mcreator.allinone.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+	"AllInOneModRepairItemRecipeMixin"  ],
+  "injectors": {
+	"defaultRequire": 1
+  }
+}

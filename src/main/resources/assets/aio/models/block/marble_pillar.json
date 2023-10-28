@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "aio:block/marble_pillar_top",
+    "up": "aio:block/marble_pillar_top",
+    "north": "aio:block/marble_pillar",
+    "east": "aio:block/marble_pillar_top",
+    "south": "aio:block/marble_pillar_top",
+    "west": "aio:block/marble_pillar_top",
+    "particle": "aio:block/marble_pillar_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "aio:netherrack_t_3"
+    }
+  ],
+  "result": {
+    "item": "aio:netherrack_t_2",
+    "count": 9
+  }
+}

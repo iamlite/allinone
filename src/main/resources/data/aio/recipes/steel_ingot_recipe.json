@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "aio:alloy_mould"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:lava_bucket"
+    },
+    {
+      "item": "aio:coal_dust"
+    },
+    {
+      "tag": "c:forge_hammers"
+    }
+  ],
+  "result": {
+    "item": "aio:steel_ingot",
+    "count": 1
+  }
+}

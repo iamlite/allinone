@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "aio:gravel_t_5"
+    }
+  ],
+  "result": {
+    "item": "aio:gravel_t_4",
+    "count": 9
+  }
+}

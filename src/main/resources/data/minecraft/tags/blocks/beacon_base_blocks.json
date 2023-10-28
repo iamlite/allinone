@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "aio:tin_block",
+    "aio:steel_block",
+    "aio:silver_block"
+  ]
+}

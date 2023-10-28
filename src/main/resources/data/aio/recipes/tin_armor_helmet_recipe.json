@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "aio:tin_ingot"
+    },
+    "1": {
+      "item": "aio:tin_ingot"
+    },
+    "2": {
+      "item": "aio:tin_ingot"
+    },
+    "3": {
+      "item": "aio:tin_ingot"
+    },
+    "5": {
+      "item": "aio:tin_ingot"
+    }
+  },
+  "result": {
+    "item": "aio:tin_armor_helmet",
+    "count": 1
+  }
+}

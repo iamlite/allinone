@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:forge_hammers"
+    },
+    {
+      "tag": "c:steel_ingots"
+    }
+  ],
+  "result": {
+    "item": "aio:steel_dust",
+    "count": 1
+  }
+}

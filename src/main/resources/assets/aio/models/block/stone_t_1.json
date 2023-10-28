@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "aio:block/compressed_stone_x1",
+    "up": "aio:block/compressed_stone_x1",
+    "north": "aio:block/compressed_stone_x1",
+    "east": "aio:block/compressed_stone_x1",
+    "south": "aio:block/compressed_stone_x1",
+    "west": "aio:block/compressed_stone_x1",
+    "particle": "aio:block/compressed_stone_x1"
+  },
+  "render_type": "solid"
+}

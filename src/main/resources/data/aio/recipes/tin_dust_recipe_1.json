@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:forge_hammers"
+    },
+    {
+      "item": "aio:tin_ore_chunk"
+    }
+  ],
+  "result": {
+    "item": "aio:tin_dust",
+    "count": 1
+  }
+}

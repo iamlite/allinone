@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "3  "
+  ],
+  "key": {
+    "0": {
+      "item": "aio:marble"
+    },
+    "1": {
+      "item": "aio:marble"
+    },
+    "2": {
+      "item": "aio:marble"
+    },
+    "3": {
+      "item": "aio:marble"
+    }
+  },
+  "result": {
+    "item": "aio:marble_bricks",
+    "count": 4
+  }
+}

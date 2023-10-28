@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:dirt"
+    },
+    "1": {
+      "tag": "minecraft:dirt"
+    },
+    "2": {
+      "tag": "minecraft:dirt"
+    },
+    "3": {
+      "tag": "minecraft:dirt"
+    },
+    "4": {
+      "tag": "minecraft:dirt"
+    },
+    "5": {
+      "tag": "minecraft:dirt"
+    },
+    "6": {
+      "tag": "minecraft:dirt"
+    },
+    "7": {
+      "tag": "minecraft:dirt"
+    },
+    "8": {
+      "tag": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "aio:dirt_t_1",
+    "count": 1
+  }
+}

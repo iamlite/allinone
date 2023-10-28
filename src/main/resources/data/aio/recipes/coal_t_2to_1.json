@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "aio:coal_t_2"
+    }
+  ],
+  "result": {
+    "item": "aio:coal_t_1",
+    "count": 9
+  }
+}

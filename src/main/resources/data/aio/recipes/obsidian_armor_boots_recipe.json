@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "aio:compressed_obsidian_t_1"
+    },
+    "2": {
+      "item": "aio:compressed_obsidian_t_1"
+    },
+    "3": {
+      "item": "aio:compressed_obsidian_t_1"
+    },
+    "5": {
+      "item": "aio:compressed_obsidian_t_1"
+    }
+  },
+  "result": {
+    "item": "aio:obsidian_armor_boots",
+    "count": 1
+  }
+}

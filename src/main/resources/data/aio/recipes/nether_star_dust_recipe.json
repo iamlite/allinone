@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "aio:nether_star_fragment"
+    },
+    {
+      "tag": "forge:forgehammers"
+    }
+  ],
+  "result": {
+    "item": "aio:nether_star_dust",
+    "count": 1
+  }
+}

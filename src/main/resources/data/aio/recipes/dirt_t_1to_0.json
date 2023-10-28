@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "aio:dirt_t_1"
+    }
+  ],
+  "result": {
+    "item": "minecraft:dirt",
+    "count": 9
+  }
+}

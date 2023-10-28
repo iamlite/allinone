@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:stone"
+    },
+    "1": {
+      "item": "aio:hammer_head_mould"
+    },
+    "2": {
+      "tag": "minecraft:stone"
+    },
+    "4": {
+      "tag": "minecraft:planks"
+    },
+    "7": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "aio:stone_forge_hammer",
+    "count": 1
+  }
+}

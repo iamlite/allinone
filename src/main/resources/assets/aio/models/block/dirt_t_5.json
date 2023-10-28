@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "aio:block/compressed_dirt_x5",
+    "particle": "aio:block/compressed_dirt_x5"
+  },
+  "render_type": "solid"
+}

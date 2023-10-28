@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "aio:iron_forge_hammer",
+    "aio:diamond_forge_hammer",
+    "aio:obsidian_forge_hammer",
+    "aio:stone_forge_hammer",
+    "aio:copper_forge_hammer"
+  ]
+}

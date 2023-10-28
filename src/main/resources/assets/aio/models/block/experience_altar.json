@@ -1,0 +1,9 @@
+{
+  "parent": "aio:custom/xpaltar",
+  "textures": {
+    "all": "aio:block/xpaltar",
+    "particle": "aio:block/xpaltar",
+    "0": "aio:block/altar"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "aio:block/glowballblock",
+    "up": "aio:block/air",
+    "north": "aio:block/air",
+    "east": "aio:block/air",
+    "south": "aio:block/air",
+    "west": "aio:block/air",
+    "particle": "aio:block/glowballblock"
+  },
+  "render_type": "translucent"
+}

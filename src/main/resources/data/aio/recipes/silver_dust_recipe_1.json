@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:forge_hammers"
+    },
+    {
+      "tag": "c:silver_ores"
+    }
+  ],
+  "result": {
+    "item": "aio:silver_dust",
+    "count": 1
+  }
+}

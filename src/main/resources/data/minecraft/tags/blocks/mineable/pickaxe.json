@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "aio:tin_ore",
+    "aio:silver_ore",
+    "aio:tin_block",
+    "aio:silver_block",
+    "aio:steel_block",
+    "aio:marble",
+    "aio:marble_bricks",
+    "aio:marble_pillar",
+    "aio:cobble_gen_mk_1"
+  ]
+}

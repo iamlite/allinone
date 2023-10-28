@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherrack"
+    },
+    "1": {
+      "item": "minecraft:netherrack"
+    },
+    "2": {
+      "item": "minecraft:netherrack"
+    },
+    "3": {
+      "item": "minecraft:netherrack"
+    },
+    "4": {
+      "item": "minecraft:netherrack"
+    },
+    "5": {
+      "item": "minecraft:netherrack"
+    },
+    "6": {
+      "item": "minecraft:netherrack"
+    },
+    "7": {
+      "item": "minecraft:netherrack"
+    },
+    "8": {
+      "item": "minecraft:netherrack"
+    }
+  },
+  "result": {
+    "item": "aio:netherrack_t_1",
+    "count": 1
+  }
+}

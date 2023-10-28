@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "aio:nether_star_fragment"
+    },
+    "1": {
+      "item": "aio:nether_star_fragment"
+    },
+    "2": {
+      "item": "aio:nether_star_fragment"
+    },
+    "3": {
+      "item": "aio:nether_star_fragment"
+    },
+    "4": {
+      "item": "aio:nether_star_fragment"
+    },
+    "5": {
+      "item": "aio:nether_star_fragment"
+    },
+    "6": {
+      "item": "aio:nether_star_fragment"
+    },
+    "7": {
+      "item": "aio:nether_star_fragment"
+    },
+    "8": {
+      "item": "aio:nether_star_fragment"
+    }
+  },
+  "result": {
+    "item": "minecraft:nether_star",
+    "count": 1
+  }
+}

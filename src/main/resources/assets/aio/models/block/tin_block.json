@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "aio:block/tin_ore_block",
+    "particle": "aio:block/tin_ore_block"
+  },
+  "render_type": "solid"
+}
